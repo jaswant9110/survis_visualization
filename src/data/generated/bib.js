@@ -1,0 +1,120 @@
+﻿define({ entries : {
+    "Beck2016Visual": {
+        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
+        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel Bobadilla, J. and Ortega, F. and Hernando, A. and Guti\u00e9rrez, A.",
+        "doi": "10.1109/TVCG.2015.2467757 10.1016/j.knosys.2013.03.012",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics Knowledge-Based Systems",
+        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser foundational",
+        "number": "01",
+        "pages": "109--132",
+        "publisher": "IEEE",
+        "series": "TVCG",
+        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis} Recommender systems survey",
+        "type": "article",
+        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
+        "volume": "22 46",
+        "year": "2016 @article{bobadilla2013recommender, 2013"
+    },
+    "chen2021exercise": {
+        "author": "Chen, H.-K. and Chen, F.-H. and Lin, S.-F.",
+        "doi": "10.3390/app11062661",
+        "journal": "Applied Sciences",
+        "keywords": "health, wellness, application",
+        "number": "6",
+        "pages": "2661",
+        "title": "An AI-Based Exercise Prescription Recommendation System",
+        "type": "article",
+        "volume": "11",
+        "year": "2021"
+    },
+    "elhassouni2018clustering": {
+        "author": "El Hassouni, A. and Hoogendoorn, M. and van Otterlo, M. and Eiben, A. E. and Muhonen, V. and Barbaro, E.",
+        "doi": "10.48550/arXiv.1804.03592",
+        "journal": "arXiv preprint",
+        "keywords": "health, wellness, application",
+        "title": "A clustering-based reinforcement learning approach for tailored personalization of e-Health interventions",
+        "type": "article",
+        "year": "2018"
+    },
+    "fang2024enhancing": {
+        "author": "Fang, J. and Lee, V. C. S. and Ji, H. and Wang, H.",
+        "doi": "10.1177/20552076241233247",
+        "journal": "Digital Health",
+        "keywords": "health, wellness, application",
+        "pages": "20552076241233247",
+        "title": "Enhancing digital health services: A machine learning approach to personalized exercise goal setting",
+        "type": "article",
+        "volume": "10",
+        "year": "2024"
+    },
+    "kothari2025wellness": {
+        "author": "Kothari, A. and Khanna, U. and Shah, N. and Shah, S.",
+        "booktitle": "Proceedings of the 2025 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS)",
+        "doi": "10.1109/SCEECS64059.2025.10940178",
+        "keywords": "health, wellness, application",
+        "organization": "IEEE",
+        "title": "Wellness AI: AI-driven personalized diet and fitness recommendation",
+        "type": "inproceedings",
+        "year": "2025"
+    },
+    "kunaver2007optimisation": {
+        "author": "Kunaver, M. and Po\u017erl, T. and Poga\u010dnik, M. and Tasi\u010d, J.",
+        "doi": "10.1016/j.aeue.2007.04.003",
+        "journal": "AEU - International Journal of Electronics and Communications",
+        "keywords": "foundational, optimization",
+        "number": "7",
+        "pages": "433--443",
+        "title": "Optimisation of combined collaborative recommender systems",
+        "type": "article",
+        "volume": "61",
+        "year": "2007"
+    },
+    "liu2022p3fitrec": {
+        "author": "Liu, X. and Gao, B. and Suleiman, B. and You, H. and Ma, Z. and Liu, Y. and Anaissi, A.",
+        "doi": "10.1145/3572899",
+        "journal": "ACM Transactions on Knowledge Discovery from Data",
+        "keywords": "evaluation, optimization, health",
+        "number": "6",
+        "pages": "Article 123",
+        "title": "Privacy-Preserving Personalized Fitness Recommender System (P3FitRec): A Multi-level Deep Learning Approach",
+        "type": "article",
+        "volume": "17",
+        "year": "2022"
+    },
+    "murphy2016personalizing": {
+        "author": "Murphy, S. A.",
+        "doi": "10.1109/JPROC.2015.2501978",
+        "journal": "Proceedings of the IEEE",
+        "keywords": "health, wellness, application",
+        "number": "2",
+        "pages": "409--419",
+        "title": "Personalizing health interventions using reinforcement learning",
+        "type": "article",
+        "volume": "104",
+        "year": "2016"
+    },
+    "ni2020hybrid": {
+        "author": "Ni, J. and Chen, B. and Allinson, N. M. and Ye, X.",
+        "doi": "10.1016/j.ejor.2019.05.035",
+        "journal": "European Journal of Operational Research",
+        "keywords": "health, wellness, application",
+        "number": "3",
+        "pages": "532--542",
+        "title": "A hybrid model for predicting human physical activity status from lifelogging data",
+        "type": "article",
+        "volume": "281",
+        "year": "2020"
+    },
+    "zangerle2022evaluating": {
+        "author": "Zangerle, E. and Bauer, C.",
+        "doi": "10.1145/3556536",
+        "journal": "ACM Transactions on Interactive Intelligent Systems (TiiS)",
+        "keywords": "foundational, evaluation",
+        "number": "4",
+        "pages": "Article 58",
+        "title": "Evaluating recommender systems: Survey and framework",
+        "type": "article",
+        "volume": "12",
+        "year": "2022"
+    }
+}});
